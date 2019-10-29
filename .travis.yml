@@ -1,0 +1,7 @@
+dist: bionic
+language: node_js
+install:
+  - npm install
+script:
+  - npm install
+  - npm run jasmine
