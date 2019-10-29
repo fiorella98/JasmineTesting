@@ -2,7 +2,7 @@
   "name": "probandojasmine",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "/",
   "scripts": {
     "test-init": "jasmine init",
     "test": "jasmine"
