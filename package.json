@@ -1,0 +1,23 @@
+{
+  "name": "probandojasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-init": "jasmine init",
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiorella98/JasmineTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fiorella98/JasmineTesting/issues"
+  },
+  "homepage": "https://github.com/fiorella98/JasmineTesting#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  }
+}
